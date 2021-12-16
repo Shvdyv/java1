@@ -18,3 +18,5 @@ b. Change the fields with grades to private and add a method InsertRating, which
 c. Add the overloaded (binary) method insertRate, which will allow you to insert ratings in both fields rating1, rating2 in one call.
 
 d. In the testing class, create a program that reads the name and two grades from the console, creates a Student class object based on this data and prints its average (using the appropriate object method).
+
+Run, for example, in intelliJ
